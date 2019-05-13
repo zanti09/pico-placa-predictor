@@ -18,7 +18,7 @@ Can be on the road:
 
 ## Running the application
 
-Run `npm install` or `yanr install` to install all dependencies.
+Run `npm install` or `yarn install` to install all dependencies.
 
 Run `ng serve` for a dev server and navigate to `http://localhost:4200/`.
 
